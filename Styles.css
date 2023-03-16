@@ -1,0 +1,22 @@
+h3{
+    color: red;
+    position: relative;
+    left: 100px;
+    position: relative;
+    top: 100px;
+    
+}
+.banner{
+    position: relative;
+}
+
+.banner img{
+    max-width: 100%
+}
+
+.banner .welcome{
+    position: absolute;
+    left: 0px;
+    top: 30%
+}
+/* At the time I belive this was a good reason */ 
