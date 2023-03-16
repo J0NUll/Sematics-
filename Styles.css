@@ -8,6 +8,7 @@ h3{
 }
 .banner{
     position: relative;
+    
 }
 
 .banner img{
@@ -19,4 +20,22 @@ h3{
     left: 0px;
     top: 30%
 }
+.Whole{
+    background-color: #A3F0FF;
+}
+
+#Image1{
+    width: 801;
+    height: 1001px; 
+    object-fit: fill;
+    
+}
+#Header{
+    height: 50px;
+    width: 100%;
+}
+
+/*{border-color: black; 
+border-style: double;
+} 
 /* At the time I belive this was a good reason */ 
