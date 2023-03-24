@@ -67,11 +67,6 @@ exports.config = {
         maxInstances: 1,
         browserName: 'MicrosoftEdge',
 
-        maxInstances: 1, 
-        browserName: "Brave",
-
-        maxInstances: 1, 
-        browserName: 'Safari', 
     
         // If outputDir is provided WebdriverIO can capture driver session logs
         // it is possible to configure which logTypes to include/exclude.
